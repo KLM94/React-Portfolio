@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Homepage from "./Components/Homepage";
 import { Router } from "@reach/router";
-// import styles from "./CSS Modules/App.module.css";
+import styles from "./CSS Modules/App.module.css";
 
 class App extends Component {
   render() {
