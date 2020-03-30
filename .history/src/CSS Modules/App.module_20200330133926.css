@@ -1,0 +1,34 @@
+.appGrid {
+  text-align: center;
+}
+/* 
+.body {
+  background-image: url(../Images/Photo2.jpeg);
+} */
+
+.container {
+  background-image: url(../Images/Photo2.jpeg);
+  position: relative;
+  background: #5c97ff;
+  overflow: hidden;
+}
+/* You could use :after - it doesn't really matter */
+.container:before {
+  content: " ";
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0.6;
+  background-image: url(../Images/Photo2.jpeg);
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+}

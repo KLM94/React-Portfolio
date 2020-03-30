@@ -1,0 +1,24 @@
+/* @import url("https://fonts.googleapis.com/css?family=Dynalight&display=swap"); */
+@import url("https://fonts.googleapis.com/css?family=Meddon&family=Yellowtail&display=swap");
+
+.headerText {
+  font-family: "Meddon", cursive;
+  text-shadow: 2px 2px rgba(51, 50, 50, 0.24);
+  font-size: 60px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  background-image: url(../Images/Photo3.jpeg);
+  padding: 3.5em;
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  border: 1px solid;
+  box-shadow: 10px 10px 8px #888888;
+}
+
+.subheading {
+  font-family: "Yellowtail";
+  text-shadow: 2px 2px #36363646;
+  font-size: 20px;
+  margin-top: 1em;
+}

@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Julius+Sans+One&display=swap");
+
+.headerText {
+  font-family: "Julius Sans One", sans-serif;
+  font-size: 65px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  background-image: url(../Images/Photo3.jpeg);
+  padding: 3.5em;
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  border: 1px solid;
+  box-shadow: 10px 10px 8px #888888;
+}
+
+.subheading {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;
+  margin-top: 1em;
+}

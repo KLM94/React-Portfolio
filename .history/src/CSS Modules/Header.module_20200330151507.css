@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Allura&display=swap");
+
+.headerText {
+  font-family: "Allura";
+  font-size: 65px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+
+  padding: 0.5em;
+}

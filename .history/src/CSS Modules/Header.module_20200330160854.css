@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Barriecito&display=swap");
+
+.headerText {
+  font-family: "Barriecito", cursive;
+  font-size: 65px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  background-image: url(../Images/Photo3.jpeg);
+  padding: 3em;
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  border: 1px solid;
+
+  box-shadow: 5px 10px;
+}

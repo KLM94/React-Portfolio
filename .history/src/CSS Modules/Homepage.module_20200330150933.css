@@ -1,0 +1,12 @@
+.headerContainer {
+  text-align: center;
+  font-weight: bold;
+  border-style: solid;
+  padding-bottom: 10em;
+  background-image: url("../Images/Kirsty\ McGlynn.png");
+}
+
+.logo {
+  text-align: center;
+  box-shadow: black;
+}

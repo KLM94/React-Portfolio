@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Yellowtail&display=swap");
+
+.headerText {
+  font-family: "Yellowtail", cursive;
+  font-size: 30px;
+  text-align: center;
+  color: coral;
+  font-weight: bolder;
+  border-style: solid;
+  padding: 2em;
+}

@@ -1,0 +1,11 @@
+.headerContainer {
+  text-align: center;
+  font-weight: bold;
+  border-style: solid;
+  padding: 2em;
+  background-image: url("../Images/Photo2.jpeg");
+}
+
+/* .body {
+  background-image: url("../Images/Photo2.jpeg");
+} */
